@@ -1,0 +1,2629 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Holy zeal against sin, shewn to be an acceptable and seasonable duty : in a sermon preached at Lyme Regis, in the County of Dorset, Sept. 4th. 1700. At a quarterly lecture appointed for the promoting the Reformation of Manners. / By J. E. Minister of the Gospel.</title>
+            <author>J. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02982</idno>
+            <idno type="STC">Wing E14B</idno>
+            <idno type="STC">ESTC R174804</idno>
+            <idno type="EEBO-CITATION">47012414</idno>
+            <idno type="OCLC">ocm 47012414</idno>
+            <idno type="VID">174382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174382)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2686:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Holy zeal against sin, shewn to be an acceptable and seasonable duty : in a sermon preached at Lyme Regis, in the County of Dorset, Sept. 4th. 1700. At a quarterly lecture appointed for the promoting the Reformation of Manners. / By J. E. Minister of the Gospel.</title>
+                  <author>J. E.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. H. for the author.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped with some loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hole, Matthew, 1639 or 40-1730.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Reformation of manners, or, The nature and qualifications of true zeal in a sermon preach'd in the Parish Church of Bridgewater.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174382:1"/>
+            <p>
+               <hi>Holy Zeal againſt Sin,</hi> SHEWN To be an Acceptable And Seaſonable Duty: IN A SERMON PREACHED At Lyme Regis, IN THE County of <hi>DORSET, Sept.</hi> 4th. 1700. At a Quarterly Lecture appointed for the promoting the <hi>Reformation of Manners.</hi>
+            </p>
+            <p>By <hi>J. E.</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>
+                  <hi>Gal. 4.8.</hi>
+               </bibl> 
+               <p>It is good to be zealouſly affected always in a good thing.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for the Author. 1700.</p>
+            <pb facs="tcp:174382:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:174382:3"/>
+            <pb n="1" facs="tcp:174382:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Num. XXV. 12, 13. part.</hi>
+                  </bibl>
+                  <p>—Behold, I give unto him my Coven<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Peace; and he ſhall have it, and his after him, even the Covenant of an e<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſting Prieſthood; becauſe he was ze<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> for his God.</p>
+               </q>
+            </epigraph>
+            <p>IT is the obſervation of wiſe men, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Age has ſome ſpecial duty belonging <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> For the moſt part, every Age brings with new turn of affairs; and hence ariſe new D<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I ſhall not go back to the days of old, and en<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what was the ſpecial duty of our Forefath<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their time: let it ſuffice to tell you, that th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſent duty of this generation, and which G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Providence calls us to, ſeems to be the <hi>Ref<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion of Manners.</hi>
+            </p>
+            <p>You need not be informed, that vice is g<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> rampant; that prophaneſs and immorality <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> overrun our Land; that ſwearing and ſab<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> breaking, drunkenneſs and whoredom d<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> much abound, and walk in our Streets in ſom<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces at noon-day: it is too evident to be unobſe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> So that we ſtand in great need of a <hi>Reformatio<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>And we have a very fair opportunity for it <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> command and countenance, both of <hi>King Parliament.</hi>
+            </p>
+            <p>We have been told, that in general Refor<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons, we ſhould wait the Magiſtrates motion<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> concurrence. I will not diſpute that now, <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ther it be univerſally true? It is ſufficient, t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will anſwer the preſent caſe; we have th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pream Magiſtrate's concurrence in this matte<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <pb facs="tcp:174382:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:174382:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:174382:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Honourable <hi>Houſe of Commons,</hi> the great <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſentative body of the Nation, have made a <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pious Addreſs to his Majeſty, deſiring him <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e out his Royal Proclamation, commanding all <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es, Juſtices of the Peace, and other Magiſtrates, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t in ſpeedy execution, thoſe good Laws that are <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>in force, againſt Prophaneſs and Immorality; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to give due incouragement to all ſuch as do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> duty therein.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd accordingly the King, (Our Gracious <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reign, whom God long preſerve!) has iſſued <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Proclamation, wherein he <hi>ſtrictly char<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all perſons, Judges, Mayors, Juſtices of the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e, and all other Officers and Miniſters, both <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eſiaſtical and Civil, and all other his Subjects, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n it may concern, to be very vigilant and ſtrict <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he diſcovery and proſecution of all perſons, who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be guilty of Exceſſive drinking, Blaſphemy, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hane Swearing and Curſing, Lewdneſs, Propha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on of the Lord's day, or other diſſolute, immoral <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iſorderly practices, as they will anſwer it to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ighty God, and upon pain of the King's higheſt <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eaſure.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that now we have a loud call in the pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nce of God to apply our ſelves to this work <hi>Reformation.</hi> Now is a time for the Pious <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sober, for all that are on God's ſide, to ſhew <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r Zeal againſt Vice, to ſhew themſelves <hi>Zealous <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>heir God.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat I might incourage ſo good a work, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> note the Reformation already begun in many <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s of this Kingdom, I thought it not amiſs, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ropoſe to your conſideration the above Text. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ich ſhews how acceptable to Almighty God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Zeal of <hi>Phinehas</hi> was, in executing judgment
+<pb n="3" facs="tcp:174382:5"/>on <hi>Zimri</hi> and <hi>Cosbi,</hi> two debaucht perſons. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> tells him, that as a reward of his Zeal, he ſh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have confirm'd to him an everlaſting Prieſth<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Behold I give unto him my Covenant of Peace,</hi> &amp;<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>That you may ſee the Occaſion and Scop<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> theſe words, I ſhall give you, in brief, the hi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the matter. The <hi>Iſraelites</hi> being com<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their wilderneſs march to the plains of <hi>M<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Balak</hi> King of <hi>Moab</hi> ſent to <hi>Balaam,</hi> (a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Soothſayer in thoſe parts,) to come and curſe t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> But <hi>Balaam</hi> being able to do nothing ag<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Iſrael</hi> with all his Enchantments, whilſt <hi>Iſrael<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> faithful unto his God, whilſt God <hi>beheld no ini<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in Jacob,</hi> as <hi>Balaam</hi> expreſſeth it, <hi>Num.</hi> 23.21<g ref="char:punc">▪</g> This wicked Prophet therefore adviſed <hi>Bala<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> inſnare them into Sin; well knowing that ſin w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> provoke the diſpleaſure of the Almighty ag<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them, who was their protection, and ſo w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> make them fall an eaſy prey unto their Enemi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>By the way note; <hi>That nothing tends mo<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> rob a people or nation of its ſtrength and glory, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to expoſe them to contempt and ruine, than Sin <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Therefore thoſe, that are Zealous in the wor<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Reformation, are ſome of the Nation's beſt frie<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> It is the Intereſt of Princes to incourage ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſons. It is ſome of the beſt ſtate-policy in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> world, to give check to growing Impiety, an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> encourage the Vertuous. For <hi>Righteouſneſs ex<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> eth a Nation, but Sin is a reproach unto any pe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Prov. 20.14, 34. This was the Obſervation <hi>Solomon,</hi> the wiſeſt of Men, and the greateſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Kings. But this by the bye.</p>
+            <p>
+               <hi>Balaam,</hi> that crafty Diviner and Prophet well skill'd in theſe Politicks. And therefore <hi>Moſes</hi> takes notice of it, <hi>Num.</hi> 31.15, 16.) h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="2" facs="tcp:174382:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:174382:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:174382:7"/>
+               <hi>Balak</hi> to inſnare <hi>Iſrael</hi> by their Women. And were inſnared; firſt to Whoredom, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o Idolatry, as you read in the two firſt Verſes <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Chapter of my Text. <hi>Num.</hi> 25.1, 2. <hi>And abode in Shittim, and the people begun to commit <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>dom with the daughters of Moab. And they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the people unto the Sacrifices of their Gods: <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he people did eat, and bowed down to their Gods.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ow God was ſo diſpleaſed with theſe abomina<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ractices, that he ſent a deſtructive plague a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g them, which ſwept away many thouſands <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>em. And he commanded Moſes to execute <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ent upon the tranſgreſſors, v. 3, 4.</p>
+            <p>
+               <hi>Moſes,</hi> having received this commandement <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord, gave order to the Judges, (the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nty that were choſen to aſſiſt him in the Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ment,) to ſlay every one his men, (thoſe un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>charge,) as many of them as were guilty, v. 5. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ow in the interim, before this command was <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n Execution, comes one of the <hi>Iſraelites</hi> named <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ri,</hi> and brings unto his Brethren a Midianitiſh <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>han, in the ſight of <hi>Moſes</hi> and the Congregati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:punc">▪</g> ſo bold and impudent was he in his ſin, v. 6. <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ereupon <hi>Phinehas,</hi> in a holy Zeal, takes a <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>elin in his hand, goes to their Tent, and thruſts <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n both through, the Man of <hi>Iſrael</hi> and the <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>man through her belly, and ſo the plague was <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ed, v. 7, 8.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hether <hi>Phinehas</hi> did this in the perſon of a <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>giſtrate,</hi> and as one of thoſe Judges that were <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ered by <hi>Moſes</hi> to ſlay theſe tranſgreſſors, v. 5. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whether he did as a <hi>Private perſon,</hi> being moved <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>reto by ſome <hi>Speical</hi> direction and motion of <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>d's ſpirit, and ſo there was ſomething extraor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ary in the action? It is not material at preſent
+<pb n="5" facs="tcp:174382:7"/>to determine. For either way it is no warrant f<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> private perſons, in ordinary caſes, to take upo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them the Execution of Juſtice.</p>
+            <p>That which at preſent I would note to you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Phinehas</hi> his zeal and fervour againſt Sin, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> manifeſted by that action. Which zeal of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was ſo pleaſing to God, that he teſtified his hig<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> approbation of it, not only by removing t<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> plague, (as before noted;) but by beſtowing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Phinehas</hi> an everlaſting Prieſthood, as a reward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it. An account whereof we have in my Tex<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Behold, I give unto him my Covenant of peace, a<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> he ſhall have it, and his ſeed after him, even the Cov<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nant of an everlaſting Prieſthood; becauſe he w<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> zealous for his God.</hi>
+            </p>
+            <p>The Obſervation I ſhall note to you from t<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> words is this;</p>
+            <p>Doct. <hi>That it is a duty very pleaſing unto Go<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when perſons in a time of general corruption do ſh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> themſelves zealous for God.</hi>
+            </p>
+            <p>Is was a time of general corruption among t<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <hi>Iſraelites,</hi> and <hi>Phinehas</hi> ſhewed a more than <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dinary zeal in ſuppreſſing of it, and God ma<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>feſted his high approbation of <hi>Phinehas</hi> his zeal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſtowing on him an everlaſting Prieſthood.</p>
+            <p>In proſecuting this point I ſhall,
+<list>
+                  <item>(1.) Shew what it imports to be zealous f<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> God.</item>
+                  <item>(2.) Prove that 'tis a duty very pleaſing un<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> God.</item>
+                  <item>(3.) Shew who be the perſons that ſhould <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>erciſe this zeal. And,</item>
+                  <item>(4.) Conclude with ſome Improvement.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Firſt,</hi> I ſhall ſhew, what it is <hi>to be zealous for G<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>That we may rightly apprehend the meani<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <pb n="6" facs="tcp:174382:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f this phraſe, it may not be amiſs to ſpeak ſome<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat to the nature of Zeal in the general; and <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>en more particularly to ſhew the Import of the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hraſe in my Text.</p>
+            <p>As for <hi>Zeal</hi> in the general, it denotes the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>armth and fervour of Spirit. <hi>Zelare &amp; Zelari,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aith <hi>Voſſius,</hi>) <hi>utrumque dicitur de ardenti affect<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>nc pro aliquo, nunc contra aliquem.</hi> i.e. To have <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>al, or to be zealous are both ſpoken of any ardent <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>fection, ſometimes <hi>for</hi> a perſon, ſometimes <hi>a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>inſt</hi> him. The Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (quod à <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, vald<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ferveo,) ſignifies <hi>boiling,</hi> or <hi>fervent and <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>rning heat.</hi> For as boiling or burning is the <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>gheſt degree of heat, ſo is zeal or fervency the <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>gheſt pitch of our affections. And therefore Zeal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſcribed by ſome, to be <hi>the heat and intention <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the affections.</hi> It is not ſo much a vertue in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf, as the life and ſoul of all other vertues. It <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like varniſh to the Colour, which is in it ſelf no <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>lour, but gives a gloſs and luſtre unto all.</p>
+            <p>Zeal in it ſelf is neither good nor evil; but ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>rding to its object: accordingly there is a good <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>d bad zeal.</p>
+            <p n="1">(1.) There is a <hi>bad Zeal.</hi> Of this kind is that <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich is ſet on wrong objects. This ſcarce de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ves the name of zeal, being nothing elſe <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t an Intemperate heat, or rather a kind of Frenzy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Madneſs. Such was the zeal of thoſe Idolaters, <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>o in their falſe worſhip cut themſelves with <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ives, 1 <hi>King.</hi> 18.28. Such was the zeal of thoſe <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ws, who burnt their children in the fire unto <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oloch, Jer.</hi> 7.31. And with this violent and <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>d zeal was St. <hi>Paul</hi> acted before his converſion, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> himſelf confeſſeth, <hi>Act.</hi> 26.11. <hi>Phil.</hi> 3.6. com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>red,) when he was ſo enraged againſt the Chri<g ref="char:EOLhyphen"/>ſtians,
+<pb n="7" facs="tcp:174382:8"/>that he ſpared no coſt or pains, to ſupp<gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> their meetings and to root them out. This is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the zeal whereof my Text ſpeaks.</p>
+            <p n="2">(2.) There is a <hi>good zeal,</hi> which may be t<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> deſcribed; <hi>It is a holy warmth and fervour of affe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on, wrought in us by the ſpirit of God, whereby <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are inclined to promote God's glory, in a vigor<gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> manner, according to his word.</hi>
+            </p>
+            <p>The marks and properties of this zeal, am<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> other, are theſe.</p>
+            <p n="1">(1.) <hi>It is always about a good thing,</hi> Gal. 4.<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>It is good to be zealouſly affected always in a g<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thing.</hi> If the matter be evil, the more vigor<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and earneſt any perſon is, the more ſinful. Ho<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> zeal is always exerciſed about a good matter.</p>
+            <p n="2">(2.) <hi>It is always accompanied with knowled<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi> Rom, 10.2. <hi>For I bear them record, that they h<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> a zeal for God, but not according to knowledge.</hi> T<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> was the fault of the <hi>Iſraelites</hi> zeal: it wanted know<g ref="char:EOLhyphen"/>ledge, zeal without knowledge is but a blind ze<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+            </p>
+            <p n="3">(3.) <hi>It maketh the greateſt account of the weighti<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> matter.</hi> This rule we have, <hi>Mat.</hi> 23.23. wh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Chriſt blames the Scribes and Phariſees, for ſhe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing great zeal about leſſer matters, but having <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concern for thoſe that were weightier, ſpeaki<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> to them after this manner. <hi>Wo unto you Scribes a<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> Phariſees Hypocrites for ye pay Tithe of mint a<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> aniſe and cummin, and have omitted the weight<gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> matters of the law, judgment, mercy and faith; th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ought ye to have done and not to leave the other u<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>done.</hi> Firſt our zeal ſhould be carried forth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> weightier matters, than to thoſe of leſs momen<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>From what hath been ſpoken of Zeal in the g<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neral, we may eaſily apprehend what it is to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>zealous for God.</hi> It is to have this true zeal, th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="8" facs="tcp:174382:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ave been deſcribing. But more particularly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> phraſe may denote theſe two things.</p>
+            <list>
+               <item>(1.) A being zealous for God in his Service. And,</item>
+               <item>(2.) A being zealous for God againſt Sin.</item>
+            </list>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hen are we zealous <hi>for God in his Service,</hi> when <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>carefully perform all religious duties, private <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> publick. When we dare not omit them, di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ntly attend them, and are devout in them; ſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>g the Lord <hi>with fervency of ſpirit,</hi> as the expreſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is, <hi>Ro.</hi> 12.11.</p>
+            <p>Then we are zealous <hi>for God againſt Sin,</hi> when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do not only miſlike it in our ſelves, and care<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>y endeavour to abſtain from it; but alſo when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>cannot bear with it</hi> in others, as the phraſe is, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>v.</hi> 2.3.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>Tis this latter is the zeal, of which my Text <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aks, for which <hi>Phinehas</hi> is commended, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s rewarded of God. He had a <hi>zeal for God a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>nſt Sin.</hi> Which zeal for God includes in it <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>eſe three things.</p>
+            <p n="1">(1.) <hi>A tender reſpect to God's glory.</hi> This is the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ound of all true zeal. 'Twas this made <hi>Phine<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+               </hi> ſo zealous for his God, becauſe he had a ten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> regard to God's glory. This was the fault of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>u</hi>'s zeal, and for which he is blamed; becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had not ſo pure an eye to God's glory, as he <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ght to have. <hi>Come ſee my zeal</hi> (ſaid he) <hi>for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord,</hi> 2 <hi>Kin.</hi> 10.16. <hi>Jehu</hi> was zealous preten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>dly for God: but ſelf was at the bottom; it <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s for a Kingdom. True Godly zeal hath always <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eye to God's glory; this is a principal ingredi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>t in it. So in the above deſcription of zeal; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a holy warmth, whereby we are inclined to pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>te God's glory,</hi> &amp;c. The Glory of God is the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eat end of our being. We are commanded to
+<pb n="9" facs="tcp:174382:9"/>reſpect this in all that we do, 1 <hi>Cor.</hi> 10.31. It is the butt and ſcope of all regular and holy actions: and therefore of neceſſity muſt be included in holy zeal.</p>
+            <p n="2">(2.) <hi>A holy indignation againſt Sin.</hi> Sin does in effect dethrone God. The practical language of the Sinner is; who is the Lord, that I ſhould obey him? It bids defiance to all God's Attributes. It <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ppoſeth his Sovereignty, it ſlighteth his Omni<g ref="char:EOLhyphen"/>ſcience, it contemneth his Power, it deſpiſeth his Goodneſs, it is a direct oppoſition to his Holineſs: in a word, it ſtrikes at the very life and being of God; ſo horrid and abominable is the nature of Sin: And was it in the Sinner's power, as it is in his will, <hi>Pſal.</hi> 14.1. there ſhould be no God to puniſh him for his ſin. Now this being the na<g ref="char:EOLhyphen"/>ture and tendency of Sin; who, that hath any concern for God's glory, who that hath any true zeal for God, can chuſe but have an abhorrence of it? By Sin God's glory is eclipſed and ſullied; his very being and government are oppoſed and ſlighted: thoſe perſons therefore, that are zealous for God, muſt needs have a holy indignation a<g ref="char:EOLhyphen"/>gainſt Sin.</p>
+            <p n="3">(3.) It imports <hi>a diligent endeavour to ſuppreſs Sin.</hi> Activity and Zeal go always together. The active Chriſtian and the zealous Chriſtian are ne<g ref="char:EOLhyphen"/>ver ſeparated. Zeal in Scripture is oppoſed to la<g ref="char:EOLhyphen"/>zineſs, indifferency, <hi>lukewarmneſs, Rev.</hi> 3.16, 20. It is of the nature of Zeal to be fervent, and to make perſons vigorous and active, wherever it is <hi>Jehu,</hi> being zealous, was very active in his way<g ref="char:punc">▪</g> And ſo was <hi>Phinehas,</hi> the Inſtance of my Text; he was very active in ſuppreſſing vice, and executing <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>dgment upon the Sinners. And where the is
+<pb n="10" facs="tcp:174382:10"/>true zeal for God againſt Sin, it will make perſons, in their reſpective places, to appear againſt it, and endeavour to ſuppreſs it.</p>
+            <p>This briefly for the firſt general; what it is to be <hi>zealous for God,</hi> and what it imports. I come,</p>
+            <p>Secondly, to prove, <hi>that it is a duty very plea<g ref="char:EOLhyphen"/>ſing unto God.</hi>
+            </p>
+            <p>That it is <hi>a duty,</hi> is plain from Scripture, Pre<g ref="char:EOLhyphen"/>cept and Precedent: both lay an obligation on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be <hi>zealous for God.</hi>
+            </p>
+            <p n="1">(1.) <hi>Scripture-Precept.</hi> Unleſs we break God<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> bands aſunder, and caſt away his cords from us and ſo act like thoſe wicked ones, <hi>Pſal.</hi> 2.3. we muſt reſolve to comply with this duty, becauſe by Precept we are injoyned to be <hi>zealous for God a<g ref="char:EOLhyphen"/>gainſt Sin.</hi> The Scripture requires us, <hi>to be zea<g ref="char:EOLhyphen"/>louſly affected in a good thing, Gal.</hi> 4.18. And what better thing can a perſon be imployed in, than i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> endeavouring to ſuppreſs vice, whereby God i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> diſhonoured in the world? Without compliant with this duty we cannot anſwer one great end <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt's Redemption, <hi>who gave himſelf for us, the he might redeem us from all iniquity, and purifie <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> himſelf a peculiar people, zealous of good works, T<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi> 2.14. It is one end of Chriſt's Redemption, th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> we might be zealous of good works: and amo<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> good works, this of <hi>Reformation,</hi> the reforming of Sinners is none of the leaſt.</p>
+            <p>It is a foul blot in <hi>Laodicea</hi>'s character, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had no heart to reſtrain evil-doers. 'Tis mentio<g ref="char:EOLhyphen"/>ned to the praiſe of the Church of <hi>Epheſus,</hi> th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he <hi>could not bear with them that were evil, Rev.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. But as for <hi>Laodicea,</hi> ſhe was lukewarm, neither not nor cold, very indifferent as to this matter<g ref="char:punc">▪</g> and therefore God threatens <hi>to ſpue her out of his
+<pb n="11" facs="tcp:174382:10"/>mouth,</hi> Rev. 3.15, 16. and to prevent this judg<g ref="char:EOLhyphen"/>ment calls on her to be <hi>zealous and repent,</hi> v. 19. If therefore God's call, his command and injuncti<g ref="char:EOLhyphen"/>on have any weight with us, it is our duty to ſhew our ſelves zealous againſt ſin. We are obliged thereto by <hi>Precept.</hi>
+            </p>
+            <p n="2">(2.) <hi>Scripture-Precedent does oblige to it.</hi> We are bid to follow the <hi>footſteps of the flock,</hi> Can. 1.8. And to be <hi>followers of the Saints,</hi> wherein they are followers of God, <hi>Phil.</hi> 3.17. <hi>Eph.</hi> 5.1. Now 'tis recorded to the everlaſting praiſe and commenda<g ref="char:EOLhyphen"/>tion of the Saints, many of them, how eminently zealous they were in their days for God againſt vice. This was the commendation of <hi>David, Je<g ref="char:EOLhyphen"/>hoſhaphat, Hezekiah,</hi> and <hi>Joſiah,</hi> Kings of <hi>Judah,</hi> that they ſet themſelves againſt vice, and zealouſly promoted a Reformation. This was that, which good <hi>Nehemiah</hi> took ſuch comfort in, when he had been reforming and cleanſing the people, and ma<g ref="char:EOLhyphen"/>nifeſting his zeal againſt the prophanation of the Sabbath, ſaid he, <hi>Remember me, O my God, con<g ref="char:EOLhyphen"/>cerning this alſo, and ſpare me according to the great<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eſs of thy mercy,</hi> Neh. 13.15, 22. <hi>Elijah</hi> alſo plea<g ref="char:EOLhyphen"/>ſed his zeal before God, 1 <hi>Kin.</hi> 19.10, 14. <hi>I have <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>een very jealous</hi> (or zealous) <hi>for the Lord God of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oſts, for the children of Iſrael have forſaken thy Co<g ref="char:EOLhyphen"/>venant,</hi> &amp;c. And to mention no more, it was this <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat made <hi>Phinehas</hi> ſo famous to poſterity, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ained him the Covenant of an everlaſting Prieſt<g ref="char:EOLhyphen"/>hood, <hi>becauſe he was zealous for his God;</hi> becauſe <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e appeared boldly for God againſt ſin, and exe<g ref="char:EOLhyphen"/>cuted judgment on thoſe preſumptuous ſinners <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>imri</hi> and <hi>Cosbi,</hi> without having reſpect to their <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ality and greatneſs, notwithſtanding <hi>Zimri</hi> was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Son of a Prince, and <hi>Cosbi</hi> was the Daughter
+<pb n="12" facs="tcp:174382:11"/>of a chief Houſe in <hi>Midian,</hi> Num. 25.8, 14, 15.</p>
+            <p>Thus if we look back to the Saints of old, w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> find many inſtances recorded in Scripture, of pe<g ref="char:EOLhyphen"/>ſons zealous for God againſt vice. It is therefo<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> our duty to be ſo too; that we may be like th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> people of God, in old time.</p>
+            <p>That it is a duty very pleaſing unto God, m<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be demonſtrated from divers particulars: but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſent I ſhall keep to the inſtance of my Tex<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and thence make it appear to be an acceptable <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty. That <hi>Phinehas</hi> his zeal was very pleaſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to God will evidently appear from the conſider<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on of theſe two particulars, both mentioned in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Text and Context. One is, God's removing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Plague from the <hi>Iſraelites</hi> thereupon. The oth<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> his beſtowing an everlaſting Prieſthood on <hi>Phin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p n="1">(1.) <hi>God's removing the Plague from the</hi> Iſrael<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> upon <hi>Phinehas</hi> his performing this duty, is a pl<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> indication how acceptable his zeal was unto G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> The <hi>Iſraelites</hi> having greatly corrupted themſel<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by whoredom and idolatry, God ſent amo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them a ſweeping Plague, which took away no<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> than <hi>twenty four thouſand,</hi> Num. 25.9.</p>
+            <p>Times of general debauchery are uſually <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forerunners of ſome ſore judgment. Whate<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pretences men make to Loyalty, to the Templ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Lord, to the Church, and the like; yet if th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are debaucht perſons, they are ſome of the N<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on's worſt enemies. Theſe were the perſons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought wrath upon <hi>Iſrael,</hi> and cauſed God<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſend the Plague among them.</p>
+            <p>Now when God's judgments are abroad in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> earth, the Inhabitants thereof ſhould learn Rig<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>teouſneſs. It ſhould be ſo: but what ſhall we ſay The wicked will do wickedly ſtill. Mercies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:174382:11"/>Judgments, they are all one to them; they w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be reclaimed. Thus 'tis in our days, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 'twas in the days of old. An inſtance whereof <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have in <hi>Zimri</hi> and <hi>Cosbi,</hi> who notwithſtand<gap reason="illegible" resp="#PDCC" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> that dreadful judgment God ſent on the pe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for their great wickedneſs, went on ſtill boldly<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the ſame debaucht practices, not being afraid<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> commit lewdneſs in the face of the Sun. But <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nehas</hi> on the other hand was no leſs bold in G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cauſe, in executing judgment: for in a holy z<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he went forthwith to them, and thruſt them b<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> through. Which action of his was ſo pleaſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to God, that hereupon he ſtayed the Plague, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> And he went to the man of Iſrael into the tent, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thruſt them both through, the man of Iſrael and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> woman through her belly, and the plague was ſtay<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> And if any ſhould doubt, whether 'twas on the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> count of <hi>Phinehas</hi> his zeal, that the Plague <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtayed, tis farther added, <hi>v.</hi> 10, 11. <hi>And the L<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſpake unto Moſes, ſaying, Phinehas, the Son of E<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>azar, the Son of Aaron the Prieſt, hath turned a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> my wrath from the Children of Iſrael (whilſt he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> zealous for my ſake among them) that I conſumed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Children of Iſrael in my jealouſie.</hi>
+            </p>
+            <p n="2">(2.) <hi>God's beſtowing an everlaſting Prieſthood <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Phinehas,</hi> as a reward of his zeal, is another ma<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>feſt indication of his being greatly well plea<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with it. This evidence we have in the words<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> my Text; <hi>Behold I give unto him my covenant<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> peace,</hi> &amp;c. (<hi>Behold,</hi>) God calls upon others <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take notice of it, for their incouragement. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God will reward others, as well as <hi>Phinehas,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they ſhew themſelves zealous in his Cauſe. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> give unto him my Covenant of Peace,</hi>) i. e. the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> venant of Prieſthood, as it is expreſſed, <hi>v.</hi> 13. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:174382:12"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> here the Covenant of Peace; partly with re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ct to the happy effect of this heroical action of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whereby he made peace between God and the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ple; but chiefly in regard to the principal end <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe of the Prieſtly Office, which was to medi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> between God and Men, and to make atonement <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> offering up Sacrifice, Incenſe and Prayers. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd he ſhall have it.</hi>) His zeal was ſo pleaſing to mighty God, that he doubles the promiſe, to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e him the greater aſſurance of it. (<hi>And his <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d after him.</hi>) The promiſed bleſſing, the reward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his zeal, extends likewiſe unto his poſterity. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God ſometimes viſiteth the ſins of Parents up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their Children; ſo he ofttimes bleſſeth the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d of the righteous for the Parents ſake. <hi>Phi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>has</hi> his zeal brought a bleſſing on his Children. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ven the Covenant of an Everlaſting Prieſthood.</hi>) <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e word <hi>Everlaſting,</hi> in the Old Teſtament does <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ually ſignify, <hi>'till Chriſt's coming.</hi> And ſo the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>port of the promiſe is this; that if <hi>Phinehas</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s poſterity did not forfeit it by ſome remarkable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they ſhould have the Prieſthood continued to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em as long as the Law and Commonwealth of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e <hi>Jews</hi> laſted; <hi>i. e.</hi> till the coming of the <hi>Meſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h,</hi> at which time the <hi>Aaronical</hi> Prieſthood was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give place to that of <hi>Chriſt,</hi> Heb. 7.11. (<hi>Be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſe he was zealous for his God.</hi>) Here's the reaſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all rendred, why God ſhewed ſuch favour to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hinehas,</hi> becauſe he appeared boldly for God <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainſt ſin. So that 'tis evident from that reward, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich was annexed to <hi>Phinehas</hi> his zeal, that God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as highly well pleaſed with it.</p>
+            <p>And hence we may gather, that to be zealous for <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>od at any time, is alſo a duty well-pleaſing to the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lmighty; becauſe the reaſon of the duty is the
+<pb n="15" facs="tcp:174382:12"/>ſame ſtill, the ſame now as it was then: <hi>Et <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> milibus idem eſt judicium,</hi> of like things we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paſs a like judgment. I come,</p>
+            <p>Thirdly, to ſhew, <hi>Who be the perſons that ſh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> exerciſe this zeal.</hi>
+            </p>
+            <p>Whether <hi>Phinehas</hi> in that action of execu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> judgment may be conſidered as a <hi>Magiſtrate,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome think) or as a <hi>Prieſt,</hi> or <hi>Private perſon<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> matters not; for it is the duty of all perſons<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their reſpective places, whether Magiſtrates, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> niſters, or private Chriſtians, to ſhew themſe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> zealous for God againſt ſin.</p>
+            <p n="1">(1.) <hi>Magiſtrates</hi> ought to be zealous for God<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to this particular. Theſe have not only the c<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mon obligations of all Chriſtians, but ſome pe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>liar bonds and ties, whereby they are oblige<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this duty above others.</p>
+            <p>It is one great end of the Magiſtrate's Office, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be a terrour to evil-doers, and to execute wrath<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them that do evil; and this by the appointm<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and conſtitution of God; <hi>Ro.</hi> 13.3, 4. <hi>For Ru<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are not a terrour to good works, but to the evil; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thou then not be afraid of the power? Do t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which is good, and thou ſhalt have praiſe of the ſa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> For he is the Miniſter of God to thee for good. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if thou do that which is evil, be afraid; for he be<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>eth not the ſword in vain; for he is the Miniſter<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God, a Revenger, to execute wrath on him that d<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> evil.</hi> Magiſtrates are God's Miniſters; of his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pointment. And they bear not the Sword in va<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the meaning is, they ſhould not do it. 'Tis co<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mon in Scripture, to ſpeak of things as alrea<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> done, that ought to be done. Becauſe every p<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſon in the judgment of charity, unleſs ſomew<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> appears to the contrary, is ſuppoſed to act acc<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="16" facs="tcp:174382:13"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g to his duty. But if Magiſtrates bear with evil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rs, and ſuffer vice to go unpuniſhed, they do <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>great meaſure bear the Sword in vain, and ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not anſwer the end of their Office, the great <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gn whereof is, to reſtrain vice and diſorder, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to puniſh evil-doers.</p>
+            <p>Beſides, Magiſtrates are under the peculiar tye <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a ſacred Oath, whereby they oblige themſelves <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be faithfull to that truſt committed to their <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>arge; and <hi>in all articles of the King's Commiſſion <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hem directed, to do legal right to the poor and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rich, after their cunning wit and power, accord<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to the known Laws and Statutes of the Realm.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d conſequently by oath they are obliged to pu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h offenders, without reſpect of perſons; and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put the Laws in execution againſt vice, when <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e informations are brought to them. If they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of performing their duty in this reſpect, they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in danger of incurring the guilt of perjury.</p>
+            <p>Furthermore, Magiſtrates are the <hi>Repreſentatives <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God.</hi> And accordingly in Scripture they are <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gnified with his Name, <hi>Pſal.</hi> 82.6. <hi>I have ſaid ye <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Gods, and all of you the children of the moſt high.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d therefore conſidering whoſe Repreſentatives <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Vicegerents they are, they ſhould ſhew a zeal <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainſt vice, becauſe nothing is ſo abominable to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e holy God as ſin is. The Scripture tells us, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is of purer eyes than to behold iniquity,</hi> Hab. 1.13. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot that God does not ſee and behold all the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ckedneſs done under the Sun, even that com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tted in ſecret places; for he is Omniſcient; <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t the meaning is, he cannot behold ſin ſo as to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>prove it. And therefore thoſe Magiſtrates that <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>untenance vice, they are not like God, not<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>thſtanding by Office they bear his Image.</p>
+            <pb n="17" facs="tcp:174382:13"/>
+            <p>Laſt of all, though Magiſtrates are little G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon earth, with reſpect to the people; yet in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gard of the great God, who is higher than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> higheſt, they are but <hi>Stewards,</hi> and muſt be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> countable for their <hi>Stewardſhip.</hi> However dig<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fied among Men, yet they are Servants of the m<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> high; and have a great truſt, as well as honou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble, committed to their charge; and God will o<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> day call them to account concerning this truſt co<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mitted to them. He will hereafter call on the<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in ſuch language as that, <hi>Luke</hi> 16.2. <hi>Come, give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> account of thy Stewardſhip, for thou maiſt be no lo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ger Steward.</hi> The time of their Stewardſhip w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> come to an end, and they muſt be accountable f<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what they have done. And therefore if Mag<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſtrates, <hi>Gallio</hi>-like, are very indifferent in Go<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cauſe, have no heart to puniſh vice, but in th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reſpect bear the Sword in vain; they will be ab<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to give but a ſorry account unto their great Maſt<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at the general appearing on the great day. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which day, there will be no reſpect of pe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſons with God. High and low, rich and poo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> muſt all appear at his bar, and paſs under an i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> partial tryal. And therefore we find, that Kin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and great men are brought in trembling, <hi>Rev.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 15, 16. Becauſe with God there is no difference <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great or ſmall, no reſpect had to any man's perſo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but all ſhall receive according to their works.</p>
+            <p>Whether then we conſider the great end of th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Magiſtrate's Office, to execute wrath on him th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doth evil; that ſolemn Oath they are laid unde<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to do right and juſtice according to the Laws an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Statutes of the Kingdom; the nature of their O<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fice, as they are God's Repreſentatives; or th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> high truſt committed to their charge, for whi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="18" facs="tcp:174382:14"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eafter they muſt be accountable: in all theſe <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pects it is ſufficiently evident, that Magiſtrates <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eminently concern'd in this duty, <hi>to appear for <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d againſt Sin.</hi>
+            </p>
+            <p n="2">(2.) <hi>Miniſters</hi> are concern'd in this duty. It was <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e commendation of the <hi>Angel</hi> and Miniſter of the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urch of <hi>Epheſus,</hi> that <hi>he could not bear with them <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t were evil,</hi> Rev. 2.3. It is recorded to the ever<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ting praiſe of <hi>Phinehas</hi> in my Text, that <hi>he was <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>alous for his God.</hi> For Miniſters to ſhew an in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ferent ſpirit in God's cauſe; and to ſtand neu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, to ſtand by as unconcerned ſpectators, when <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers are buſy in reforming-work, and do call on <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em to lend their aſſiſtance; it argues a <hi>Laodicean</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rit, and God threatens to <hi>ſpue</hi> ſuch Miniſters <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t of his mouth,</hi> Rev. 3.16.</p>
+            <p>Of all other perſons, none ſhould be more for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ard than Miniſters in diſcountenancing vice, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pearing for God againſt ſin. Theſe, as well as <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>agiſtrates, have ſpecial and peculiar ties and ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ations.</p>
+            <p>They are <hi>God's mouth</hi> unto the people. So they <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e called, <hi>Jer.</hi> 15.19. <hi>Therefore thus ſaith the Lord, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if thou take forth the precious from the vile, thou <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lt be as my mouth.</hi> God every where ſpeaks a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inſt ſin and ſinners; and Miniſters, who are the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>outh of God, ſhould ſpeak as he doth. They <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould in their preaching, as well as in the exer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of Church-diſcipline, make a ſeparation be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een the precious and the vile, the good and bad. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey ſhould inſtruct, rebuke, exhort with all au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ority. Of all others, Miniſters ſhould leaſt of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bear with thoſe that do evil.</hi>
+            </p>
+            <p>Again, Miniſters in Scripture are called <hi>Ambaſſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rs,</hi> 2 Cor. 5.20. <hi>Now then we are Ambaſſadors for
+<pb n="19" facs="tcp:174382:14"/>Chriſt, as though God did beſeech you by us.</hi> Amb<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſadors are a ſort of Repreſentatives; they rep<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſent the perſons of thoſe Princes that ſend the<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> And thus it is with Miniſters; they ſuſtain t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> perſon of God and Chriſt; they repreſent Go<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and ſupply the place of Chriſt upon earth. A<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therefore Miniſters eſpecially ſhould ſhew a ze<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> againſt ſin: for if they be cold and indifferent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the matter, they will give occaſion to others <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> think, that their Lord and Maſter is juſt ſuch an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ther as they are, one that makes no great accou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of ſin; and ſo they will bring diſhonour and re<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>proach unto God and Chriſt, whoſe Repreſent<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tives they are.</p>
+            <p>Once more, It is <hi>the Miniſters work to preac<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> down ſin.</hi> Their very Office does oblige them to i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> The main deſign of their Office is to reform ſi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ners, and to turn them from the evil and errour o<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their ways; <hi>to open mens eyes, and to turn the<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from darkneſs unto light, and from the power of Sa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tan unto God,</hi> Acts 26.18. And therefore for Mi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>niſters to ſhew a backwardneſs to diſcountenanc<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſin, they contradict the very end of their Office<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and are not worthy of the name of Miniſters.</p>
+            <p n="3">(3.) It is the duty of all in general, of <hi>Private<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Chriſtians,</hi> as well as Magiſtrates and Miniſters, to<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſhew themſelves zealous for God againſt ſin. Ti<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the duty of all that profeſs Chriſt to ſhew them<g ref="char:EOLhyphen"/>ſelves <hi>zealous of good works.</hi> This is one end for which we were redeemed, <hi>Tit.</hi> 2.14. And 'tis a good work to reſtrain ſin in others, to give check <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o vice, according to our place, as we have op<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ortunity.</p>
+            <p>Yea, <hi>ſelf-intereſt</hi> does oblige to it, not only to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tain from ſin our ſelves but not to ſuff<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:174382:15"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trouled in others. There is a pertinent place this purpoſe, <hi>Lev.</hi> 19.17. <hi>Thou ſhalt not hate thy other in thy heart, thou ſhalt in any wiſe rebuke thy <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ghbour, and not ſuffer ſin upon him.</hi> This laſt clauſe <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>variouſly tranſlated, as you may ſee particularly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the margin of the Bible, where you find it thus, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at thou bear not ſin for him.</hi> And to this tranſla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n I find Expoſitors of great note incline. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the meaning of the words is this, <hi>thou ſhalt in <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y wiſe rebuke thy neighbour,</hi> (tell him of his fault, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r ſhew thy diſlike of it) <hi>and ſhalt not bear ſin for <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>im,</hi> or for his ſake: <hi>i. e.</hi> thou ſhalt not make thy <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elf guilty of his ſin, as thou wilt aſſuredly do, i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hou doſt not perform thy duty in rebuking him <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or his ſin. And ſo this clauſe is a weighty reaſo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o enforce this precept of rebuking our Brother, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat ſo we may not ſhare in his guilt.</p>
+            <p>Furthermore, if we conſider that <hi>relation</hi> tha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rivate Chriſtians bear unto God, this likewiſe <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>does oblige them to appear againſt ſin. They ſtan<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elated to God as <hi>Children,</hi> therefore they ſhou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſent the diſhonour and injury that is offered t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God their heavenly Father. An ingenious Chi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cannot but reſent his Father's wrong. Touch th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Father in his name or perſon, and at the ſame tim<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you reflect injury upon the Son. Why, God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our <hi>Father;</hi> we call him ſo in our daily Praye<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as Chriſt hath taught us, <hi>Mat.</hi> 6.9. And God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſhonoured by mens ſins, their horrid oaths, the open prophaneſs, immorality and lewdneſs. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot but appear in the ſtation God has ſet us, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the vindication of God's honour, by endeavo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing what we can to ſuppreſs ſin.</p>
+            <p>Once more, private Chriſtians do ſtand relate<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="21" facs="tcp:174382:15"/>to God as <hi>Servants.</hi> They are not their own, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are <hi>bought with a price,</hi> 1 Cor. 6.20. therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould mind the intereſt of their Maſter. The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perty of Servants (ſaith <hi>Ariſtotle</hi>) is not to<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their own will and pleaſure, they have give<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> themſelves unto another. Servants are not <hi>ſu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ris,</hi> at their own diſpoſe; they are ſubject to a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ther, by whoſe command, and for whoſe p<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they ought to act. Thoſe therefore that pro<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they are the Servants of Chriſt, as do all that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> called by the Chriſtian name, they are, or ou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be devoted to his will; and ſhould endeavou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> promote their Maſters intereſt, whoſe Serva<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they are; conſequently they ſhould appear aga<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſin, and do what they can to ſtop the curr<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſtream of iniquity; for nothing is ſo oppoſite<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Chriſt's intereſt as ſin is.</p>
+            <p>Thus whether we conſider the <hi>command</hi> of G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> who requires us in the general to be zealouſly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fected; or our own <hi>intereſt,</hi> which obligeth us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give check to our Brother's wickedneſs, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> partake not of his guilt; or our relation to G<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> conſidered as <hi>Children,</hi> whereby we are obliged<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſtand up for God's honour; or our relation to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſidered as <hi>Servants,</hi> whoſe intereſt we ou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to ſtudy and promote: in all theſe reſpects, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ny more that might be named, it is the duty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> private Chriſtians, <hi>to ſtand up for God againſt ſi<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>And let this ſuffice for the Doctrinal part <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brief Application ſhall conclude this Diſcourſe.</p>
+            <div type="application">
+               <head>APPLICATION.</head>
+               <p>The only improvement I ſhall make of it, ſh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be to preſs you to this duty; to exhort you all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your reſpective places, <hi>to be zealous for God agai<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ſin.</hi>
+                  <pb n="22" facs="tcp:174382:16"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> And I know not how to direct you better to ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſs this zeal, than in promoting the <hi>Reformation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Manners,</hi> which is begun in ſome places of this <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gdom, and is recommended to all in general by <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſons of the higheſt rank among us, not only <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King's Proclamation, but divers of the Nobili<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Reverend Clergy, Lords Temporal and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ds Spiritual, who have publicly ſubſcribed <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ir approbation.</p>
+               <p>God (my Beloved) has done great things for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nation. He has delivered us from our fears <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Popery, and arbitrary Government; and hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a moſt Chriſtian Prince upon the Throne, who <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er God has been our Deliverer. When our <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>thren, the Proteſtants in Neighbour Countries <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>an under ſevere perſecution, and are forced to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the bread of their Souls with the peril of their <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es; we have it to the full. Our Sanctuary doors <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wide open; we have none to diſturb, or make <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>fraid. In a word, we have a confluence of all <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s of bleſſings; ſo that no Nation under Hea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> can ſcare boaſt of greater privileges.</p>
+               <p>Now what does God expect from us, but that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould be a holy People, a <hi>Reformed People.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>norality and Prophaneſs have had a long reign<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> time, and have too much gone unpuniſhed. <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>e hath been, when he that was vertuous, when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that was truly and conſcientiouſly pious made <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſelf a prey. But (bleſſed be God) the ſcale is <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ed, the ſcene is altered. The Law now begins <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>un in a right channel. Liberty is granted unto <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>der Conſciences. Prophaneſs and Impiety meet <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h publick check. Perſons that are pious may <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s holy as they will: and they have now alſo <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pportunity to give check to others in their ſin.</p>
+               <pb n="23" facs="tcp:174382:16"/>
+               <p>How eaſy is it, were perſons but diligent, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> drive ſwearing and ſabbath-breaking, whoredo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and drunkenneſs out of our Land; at leaſt into ſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cret and obſcure places? Did all ranks and degre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of men lend a hand to it, nothing more eaſy. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Miniſters</hi> would but incourage this work, and n<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> only reprove ſinners in the Pulpit, but exhort M<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>giſtrates and private Chriſtians to their duty. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>private Chriſtians</hi> would rebuke their Neighbou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as they ought to do; and in caſe of obſtinacy gi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> information unto the Magiſtrate: And if <hi>Mag<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſtrates</hi> would but perform their duty, in putti<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> the Laws in execution againſt vice: This wou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſtrike terrour on our Debauchees, and make wic<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> edneſs to flee before them. Sinners then wou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be afraid of the Magiſtrate's ſword; though the<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> do not fear the Almighty's terrours, and the jud<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment to come. In brief, it would not be eaſy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> find in ſhort time an open debauch'd or propha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> perſon.</p>
+               <p>That I may excite all ſorts to their duty, I ſha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> apply my ſelf diſtinctly to Magiſtrates, Miniſte<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and private Chriſtians.</p>
+               <p>Firſt, I begin with the <hi>Civil Magiſtrate.</hi> Suff<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> (Right Worſhipful) this word of Exhortatio<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <hi>ſhew our ſelves zealous in your publick ſtations <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God againſt ſin.</hi>
+               </p>
+               <p>Though you are our Rulers, yet we by Offi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are your Monitors; we are to inſtruct and adm<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>niſh you in the Lord: therefore give me leave <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> put you in remembrance.</p>
+               <p>God hath raiſed you to a high poſt, he hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you above the reſt of Mankind; you are intruſt<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with great power; you have authority from h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to execute wrath on them that do evil, as well <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:174382:17"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reward and incourage the vertuous. Shew then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our zeal, in a diligent and faithful diſcharge of <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>at <hi>truſt,</hi> that <hi>power</hi> and <hi>authority</hi> that is commit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d to you.</p>
+               <p>Magiſtrates, ſaith the Apoſtle, are <hi>God's Mini<g ref="char:EOLhyphen"/>ers for good,</hi> Rom. 13.4. They are ſet up by him <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r the publick good; the good of Church and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ate.</p>
+               <p>With reference to the <hi>State,</hi> they are to pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>de good Laws, (thoſe of them that are intruſted <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ith the Legiſlative power) for the preſervation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the publick peace. They are to put (as there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> occaſion) thoſe good Laws in execution, with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut having reſpect of perſons. It is their place to <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ear Cauſes; to determine matters; to diſtribute <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſtice, rewards and puniſhments, as men deſerve; <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d to take care of the publick weal.</p>
+               <p>This office of Magiſtracy is ſo uſeful and neceſſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, that a Nation or State cannot long ſubſiſt with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t it. Were it not for Government, men would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wolves to each other. They would bite and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oil and devour one another. The ſtrongeſt Arm, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d longeſt Sword would carry all before it. We <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ould not ſit ſecure in our dwellings, nor be able <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> call what we have our own. As in the inſtance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Micah,</hi> and the ſojourning <hi>Levite,</hi> of whom we <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d in the Book of <hi>Judges,</hi> (Ch. 18, 19.) which <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>agical Stories are both uſhered in with this Pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ce, as the occaſion of all, <hi>In thoſe days there was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> King in Iſrael.</hi> The Magiſtrates office is ſo uſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to the State, for the preſervation of peace and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>der, mens lives and properties; that 'tis better <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> far to have a bad Magiſtrate, than none at all. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Magiſtrates alſo are ſet up by God for the good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <hi>Church.</hi> Hence they are called <hi>nurſing Fa<g ref="char:EOLhyphen"/>thers,</hi>
+                  <pb n="25" facs="tcp:174382:17"/>Iſa. 49.23. <hi>And Kings ſhall be thy nurſing <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>thers, and their Queens thy nurſing Mothers.</hi> Th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> promiſe was made to the Church of the Gentil<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and ſo belongs unto Goſpel-times. Though th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be not <hi>Fathers,</hi> to beget Souls to Chriſt, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Miniſter's work; yet they are to be <hi>nurſing <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>thers,</hi> to defend and protect thoſe that are beg<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ten by the miniſtry of the Word. The Magiſtra<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> office, and the Miniſter's office are two diſti<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> things; each acteth in a different ſphere. As <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>niſters muſt not meddle with the Magiſtra<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sword, conſidered as Miniſters: ſo neither m<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Magiſtrates invade the Prieſt's office; they ou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not to meddle with publick preaching, adminiſt<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tion of Sacraments, Church-cenſures, and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King <hi>
+                     <g ref="char:V">Ʋ</g>zziah</hi> ſtands on record, for caution to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Magiſtrates in ſuch caſes, 2 <hi>Chron.</hi> 26.18, 19.</p>
+               <p>Touching the <hi>Extent</hi> of the Magiſtrate's po<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in matters of Religion, I will not enter on a la<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> diſpute now. Thus much I take to be gener<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> granted, that Magiſtrates are <hi>Cuſtodes utriuſque<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> bulae,</hi> Guardians of the firſt as well as ſecond Ta<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</p>
+               <p>Tho' Magiſtrates may not force perſons to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or that Communion, perhaps that which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> themſelves like beſt; or impoſe upon their <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſciences in ſinful or doubtful matters, the Co<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ence in ſuch caſes being ſubject to God only <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they may hinder the publick exerciſe of an Id<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> trous worſhip, and oblige perſons to keep the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bath, and to worſhip God in ſome way or o<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> It ſtands upon record to <hi>Joſiah</hi>'s praiſe, that h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> down the <hi>Idolatrous Prieſts,</hi> and the worſhi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Baal,</hi> 2 Kin. 23.4, 5. The like is mentione<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> good <hi>Hezekiah,</hi> 2 Chron. 31.1. <hi>Nehemiah</hi> m<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ons it as a good deed, and for which he w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:174382:18"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iſed whilſt the world ſtands, that he reſtrained <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſons from <hi>polluting the Sabbath,</hi> Neh. 13.15, 16. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d it is recorded to <hi>Aſa</hi>'s commendation, that <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>obliged his Subjects on ſevere penalties, <hi>to at<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d the worſhip of the true God,</hi> ſuch as they could <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> except againſt, 2 <hi>Chron.</hi> 15.13.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n a word, it is the Magiſtrate's place to <hi>puniſh <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>-doers,</hi> whether they openly violate the pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ts of the firſt, or of the ſecond Table; for this <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e great end of their office, namely, <hi>to execute <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>th on them that do evil,</hi> Ro. 13.4. By <hi>Evil<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> I do not conceive that ſuch are meant, who ſnot conform in every punctilio, to the Magi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e's mind in matters of Religion. I know that <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e have been dealt with in time paſt as evil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, under pretence of breaking the Law, (the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Man,) when it has been only to keep a <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Conſcience toward God. The Magiſtrate's <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er does not extend ſo far as this; to puniſh <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for different apprehenſions in matters of Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n, whilſt they agree in the Eſſentials of it. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en all Faces are alike, then ſhall we be all of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mind, as to leſſer matters. And as 'tis unrea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ble for the Magiſtrate to puniſh any perſon, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſe he is not of his ſize in body; ſo it is alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reaſonable to puniſh him merely for different <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>henſions, in ſome diſputable points, which <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nnot help. Neither has ſuch a courſe any <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ade in it to make perſons think otherwiſe. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y indeed force outward compliance, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> men hypocrites; but what aptitude has it, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e or any one to take a ſtick and beat another, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by to make him of our mind? This is no fit <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s to enlighten the mind; and if a man acts <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſt his perſwaſion, againſt his mind, he muſt
+<pb n="27" facs="tcp:174382:18"/>needs ſin: <hi>for whatſoever in not of faith is ſin,</hi> Ro<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 14.23. whilſt therefore perſons do agree in fu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> damentals, there ought to be liberty and tolerati<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <p>Though I do not plead for a boundleſs liber<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for Atheiſts, Deiſts, Socinians, Idolaters, and ſu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> like; who ſubvert the Goſpel, and bring in da<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nable errours; yet this to me is paſt diſpute, th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thoſe, who maintain the Eſſentials of Religio<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ought to have a liberty granted to them; as (bl<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſed be God) it is at this day.</p>
+               <p>Magiſtrates then are not now called to exec<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> wrath on thoſe perſons who differ from them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome diſputable points, wherein wiſe and go<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> men cannot yet be agreed; but on Atheiſts, Idol<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ters, prophane Swearers and Sabbath-breake<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and ſuch like. In old time, the <hi>Idolater</hi> (and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Atheiſt) was to be ſtoned, <hi>Deut.</hi> 17.2, 5. T<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Blaſphemer</hi> was put to death, <hi>Lev.</hi> 24. <hi>ult.</hi> So w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the <hi>Adulterer, Lev.</hi> 20.10. The <hi>Fornicator</hi> alſo h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his puniſhment, <hi>Deut.</hi> 22.29. And ſo had t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Drunkard, Deut.</hi> 21.20. Not to ſpeak of the p<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nalties for <hi>Theft</hi> and <hi>Murder.</hi>
+               </p>
+               <p>All theſe vices do fall under the Magiſtrate's co<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nizance. The law of God is expreſly againſt ther<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and ſo are the laws of our land too. We ha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> excellent laws, not only againſt theft and murde<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> but ſabbath-breaking, prophane ſwearing, dru<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> kenneſs and whoredom: though it were to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wiſhed, that a more ſevere penalty, than is no<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in force, was annext to the laſt of thoſe menti<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ned crimes.</p>
+               <p>In the mean time, it is the Magiſtrate's duty t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> put in execution thoſe good Laws that we have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> againſt thoſe immoral and prophane Sinners; an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I know not wherein they can better ſhew the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="28" facs="tcp:174382:19"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>al for God. A <hi>Gallio</hi>'s ſpirit, in this Cauſe of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d, wherein his honour is ſo nearly concerned, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very unbecoming a good Magiſtrate. What will <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ignifie to have good Laws, if ſo be there is no <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ecution of them? Did Magiſtrates according <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that truſt and power committed to them, exe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e wrath on evil-doers; this would be to their <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmendation; hereby they would fill up that <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rt of their office which obligeth them to it, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ould diſcover to all the world, if they proceed <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th life and vigour, that they are <hi>zealous for <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eir God.</hi>
+               </p>
+               <p>I would humbly propoſe it to their conſiderati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, whether they are as zealous in puniſhing pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ane debaucht ſinners, who break both the Laws <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God and Man; as formerly they were in pu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſhing Diſſenters? In this laſt caſe, the matter is <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſputable, whether ſuch perſons ought to be pu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſhed? It is a queſtion, whether the ſupreme Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſtrate has power to impoſe on any man's Conſci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ce, in diſputable matters, when perſons cannot <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e the lawfulneſs of them? And 'tis a queſtion, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hether or no, inferiour Magiſtrates ought to ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ute ſuch Laws, notwithſtanding their Oaths? <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r if it be ſinful, Oaths muſt not be bonds of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iquity. Whereas the caſe before us is plain. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>here is no diſpute, whether profligate ſinners, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ho break God's law and Man's too, ought to be <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>niſhed? And therefore I would humbly recom<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lend this to the <hi>Magiſtrate's zeal;</hi> that he would <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ow be as zealous in puniſhing theſe, as in time <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſt he was the former; and not brow-beat thoſe <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ho endeavour to bring them to condign puniſh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ent.</p>
+               <p>
+                  <hi>Bleſſed art thou O Land, when thy King is the
+<pb n="29" facs="tcp:174382:19"/>Son of Nobles, and thy Princes eat in due ſeaſon, f<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ſtrength and not for drunkenneſs,</hi> Eccl. 10.17. Whe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thy Magiſtrates are juſt and ſober; do rule i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God's fear, and diſcharge their duty, in executin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> wrath on evil doers, and in protecting them tha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> do well!</p>
+               <p>Secondly, I addreſs my ſelf to my <hi>Reverend F<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thers and Brethren in the Miniſtry,</hi> Conformiſts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nonconformiſts, for in this point, (the ſuppre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſing of vice) we are all agreed. Suffer (Righ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Reverend) this word of Admonition; <hi>Shew you<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ſelves zealous for God againſt ſin, in promoting an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> encouraging the work of Reformation.</hi>
+               </p>
+               <p>Be not offended, whilſt I take upon me to b<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> your Monitor; or rather Remembrancer. It <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God's cauſe that I am engaged in; and I know tha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> you, who are on God's ſide, will bear with me.</p>
+               <p>If ſuch as we, whoſe work it is to reform Sin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ners, ſhould not aſſiſt, when called on, to pro<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mote a National Reformation, we were en'e a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> good lay down our Office. We ſhall by our pra<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tice declare to the world, that whatever outcrie<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> we make againſt ſin when in the Pulpit, yet w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are not willing to have ſinners reformed.</p>
+               <p>Give me leave (my Brethren) to expoſtulate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> little. What is it that ſhould make us thus back<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ward? Are not the vices we are called on to len<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> our aſſiſtance for the ſuppreſſing of, condemne<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by us all? Who can deny, but that ſwearing, ſab<g ref="char:EOLhyphen"/>bath-breaking, drunkenneſs and whoredom ar<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> crying iniquities, that deſerve puniſhment? Ye<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> who is there, of thoſe that are ſo forward to pro<g ref="char:EOLhyphen"/>ſecute their neighbours, for every neglect in poin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of a Ceremony, where the law will allow, tha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> takes any notice of theſe profligate Sinners?</p>
+               <pb n="30" facs="tcp:174382:20"/>
+               <p>I ſpeak not at random, but from experience. It <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>as been the grief of my ſoul to ſee how difficult <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is to engage ſome Miniſters, to put to their aſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ſting hand, in promoting this work of Reforma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion. I do not ſay, that all are ſo: God forbid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould then fear it an awful prelude of ſome fore <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>udgment.</p>
+               <p>To ſee perſons all life in a Ceremony; but i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God's cauſe to have no heart, in ſome of the ſub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tantial points of Religion to be as dead as a ſtone, what is it but the height of hypocriſie? Our Sa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iour himſelf has decided this caſe. He hath told <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, there are weightier matters, and leſſer matters <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd he hath branded thoſe for hypocrites, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>as denounced a woe againſt them, who keep <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>other about ſmaller matters, ſuch as Ceremoni<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Man's making, <hi>mint, anice, cummin;</hi> but neg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ect the weightier matters of the Law; <hi>ſobrie<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ighteouſneſs, peace, charity; faith, judgment, mercy</hi> You know where it is written, <hi>Mat.</hi> 23.23.</p>
+               <p>When we ſee ſome perſons thus zealous abo<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eſſer matters, <hi>Jehu</hi>-like, driving on with a furio<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eal; and at the ſame time to have no regard fo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God's honour; to be careleſs and indifferent, wh<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>her God's law, and the great things of it, be ob<g ref="char:EOLhyphen"/>ſerved yea or no; it is a temptation to many <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> believe, that there is more than a Ceremony, th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s the difference between the Church and the Me<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng; and that a ſeparation is in ſome ſort neceſſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y, to keep up the <hi>power of Religion.</hi>
+               </p>
+               <p>I could heartily wiſh, that we could unite o<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne common bottom<g ref="char:punc">▪</g> and walk together where<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> we are agreed, and particularly in ſuppreſſing vi<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd prophaneſs! now we have an opportunity fo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t, the ſupream Magiſtrate's countenance and goo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <pb n="31" facs="tcp:174382:20"/>
+               <p>It was the obſervation of our Bleſſed Lord, t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>the children of this world are wiſer in their gener<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>on, than the children of light,</hi> Luke 16.8. O, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it not, (my Reverend and dear Brethren) h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> true of Miniſters. Shall the men of the world, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> different Intereſts, unite their forces, to prom<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> one common and general deſign? Yea, let me a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſhall the Devils themſelves, as I have ſhewn el<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> where, (ſee my late Treatiſe, <hi>Man's Sinfulneſs a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Miſery by Nature, p.</hi> 145.) unite and agree, to ca<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on one common Intereſt, againſt Chriſt and his Kin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dom? And ſhall not Chriſtians, ſhall not Miniſte<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> unite in oppoſing the Intereſt of Satan, by ende<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vouring the ſuppreſſion of vice and prophaneſs <hi>Tell it not in Gath, publiſh it not in Askelon;</hi> let n<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Papiſts hear of it, leſt theſe uncircumciſed Ph<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>liſtins rejoyce, who know that when we a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> throughly debaucht, we are then fit for any Rel<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gion, and ſo may give them new hopes.</p>
+               <p>In the Name therefore of our great Maſter, l<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> us lay by our leſſer heats, and ſhew our ſelves <hi>ze<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lous for our God,</hi> by promoting in our places, tha<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> National Reformation, that is begun in ſome part<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <p>I would hope (my Brethren) you need not m<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tives or a ſpur; though I take this liberty to pu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> you in remembrance.</p>
+               <p>Thirdly, a word briefly to <hi>Private Chriſtian<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> and ſo I have done. <hi>Is it a duty very pleaſing unt<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> God, to ſhew our ſelves zealous for him?</hi> Then pu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> this duty into practice. It belongs to you as wel<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as others. Shew your ſelves zealous for God a<g ref="char:EOLhyphen"/>gainſt Sin, by promoting in your places the ſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> much talkt of <hi>Reformation of Manners.</hi> More par<g ref="char:EOLhyphen"/>ticularly,</p>
+               <pb n="32" facs="tcp:174382:21"/>
+               <p n="1">(1.) <hi>Reform your ſelves.</hi> Begin at home. You <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll never be able to proceed with courage in re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rming of others, whilſt guilt lies at your own <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or. It will be objected, firſt mend your ſelves; <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>al your ſelf. The Snuffers of the Sanctuary were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be of pure gold, <hi>Exod.</hi> 25.38. A Ceremony <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>as one has lately noted) ſignificative of this, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nong other truths; that <hi>they muſt be holy, and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>blameable themſelves, who take upon them to reprove <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nd reform others.</hi>
+               </p>
+               <p n="2">(2.) As there is occaſion, <hi>Rebuke your nighbour.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ow plain is this duty, though little practiſed? <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ev.</hi> 19.17. <hi>Thou ſhalt in any wiſe rebuke thy Bro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>her, and not ſuffer ſin upon him.</hi> There is indeed <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ome prudence required in giving rebukes ſome<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>mes. It may be done verbally, or by withdraw<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng our preſence, or ſome teſtimony of diſlike, as <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rudence ſhall direct, according to the circumſtance <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f time, place and perſon.</p>
+               <p n="3">(3.) Laſtly, if after rebuke he continues obſti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ate, and other ways will not reclaim him, <hi>gi<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nformation againſt him to the Magiſtrate, that ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ay be brought to condign puniſhment.</hi> What ca<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Magiſtrates, or Laws do, though never ſo good <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f none will take it on them to give informa<g ref="char:EOLhyphen"/>tion?</p>
+               <p>I know, the Name of an <hi>Informer</hi> is become odi<g ref="char:EOLhyphen"/>ous; becauſe the thing has been abuſed; which <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s either good or evil, according to the matter an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>auſe of it. To inform againſt the godly, for ma<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er of duty, to expoſe them to the rage of Perſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cutors, that is wicked. But to inform againſt th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> wicked, upon the account of their ſin, whereb<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God is diſhonoured, to bring them to condign p<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>niſhment;
+<pb n="33" facs="tcp:174382:21"/>that is godly, and a Scripture-du<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Lev.</hi> 5.1. <hi>Deut.</hi> 17.4, 5.</p>
+               <p>Perhaps you meet with ſome <hi>trouble</hi> and <hi>repro<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> by giving Informations, and by endeavouring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reform others. Well, be it ſo: Is it not our du<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to <hi>deny our ſelves</hi> in ſome caſes? Can we be Ch<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtians without ſelf-denial? Pray ſee <hi>Mat.</hi> 24.16.</p>
+               <p>Who knows, but you by your zeal, may <hi>ke<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> off God's judgments</hi> from the land? Did not <hi>Ph<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nehas</hi> turn away God's wrath from the Childre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>Iſrael?</hi> Is it not recorded for the incourag<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment of others? <hi>Num.</hi> 25.11.</p>
+               <p>Remember, that it is the <hi>Cauſe of God.</hi> Ho<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> zealous were the wicked in time paſt in perſecutin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the godly for matter of duty; in hunting them a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Partridges on the Mountains, ſparing no coſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> time or pains? And ſhall their zeal, in a ba<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cauſe, wherein they did the Devil's works, ou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> doe yours in the cauſe of God, wherein God honour and glory is concerned?</p>
+               <p>Conſider this, God takes notice of all that yo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> do; for he is Omniſcient. He ſees your zeal your labour of love, and all your trouble, an<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> notes it down in his book. Your zeal to him is a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>well pleaſing act of faith:</hi> you may learn this from the inſtance of my Text. God was ſo well plea<g ref="char:EOLhyphen"/>ſed with <hi>Phinehas</hi> his zeal, that he beſtowed on him an everlaſting Prieſthood; and not only ſo, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut bleſt his Children for his ſake. <hi>Behold, I give <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>to him my Covenant of Peace, and he ſhall have <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t, and his ſeed after him.</hi> Who knows, but that you, by your zeal, may derive a bleſſing unto <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>our poſterity?</p>
+               <pb n="34" facs="tcp:174382:22"/>
+               <p>Beſides, if with <hi>Phinehas</hi> your zeal be rig<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> all be <hi>imputed to you for righteouſneſs,</hi> as his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſal.</hi> 106.31. And God hereafter will rewa<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ou for it; and will abundantly recompence yo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ouble. Therefore comfort your ſelves und<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l diſcouragements with theſe thoughts.</p>
+               <p>To conclude; If Magiſtrates, Miniſters and p<gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ate Chriſtians would each do their duty, a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> new themſelves zealous for God againſt vice, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hearty promoting of the preſent Reformatio<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> were an eaſy thing to drive ſin into corners, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lear our Towns of whoremaſters, drunkar<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rophane ſwearers and ſabbath-breakers and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ring Religion and a ſhew of Godlineſs into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ute. 'Twould alſo be a means of lengthe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut our preſent tranquillity, and of procuring <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us many bleſſings, as well as the averting impe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng judgments; which, in caſe this work of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>formation</hi> be obſtructed, will in all probabilit<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>poured down on us. Which God of his inf<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mercy prevent!</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
